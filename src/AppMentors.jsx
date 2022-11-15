@@ -1,4 +1,4 @@
-// 배열상태관리
+// 배열 상태 관리 하기
 
 import React, { useState } from "react";
 import { useReducer } from "react";
