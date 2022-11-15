@@ -1,4 +1,4 @@
-/// 전개연산자를 이용한 중첩 객체 상태관리
+/// 전개연산자를 이용한 중첩 객체 상태관리하기
 
 import React, { useState } from "react";
 
